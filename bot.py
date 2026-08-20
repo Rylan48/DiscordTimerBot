@@ -148,8 +148,6 @@ async def on_message(message):
     # 1 in 100 chance to reply
     if random.randint(1, 100) == 1:
         responses = [
-            "fuck you",
-            "🍆💦 👩‍🦰 <---- your mom",
             "and?",
             "Cool!",
             "Wtf?",
